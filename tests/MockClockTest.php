@@ -10,6 +10,7 @@ use Tempest\Clock\MockClock;
 
 /**
  * @internal
+ * @small
  */
 final class MockClockTest extends TestCase
 {

@@ -10,6 +10,7 @@ use Tempest\Clock\GenericClock;
 
 /**
  * @internal
+ * @small
  */
 final class GenericClockTest extends TestCase
 {
