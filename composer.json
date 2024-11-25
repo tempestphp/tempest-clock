@@ -1,6 +1,5 @@
 {
     "name": "tempest/clock",
-    "description": "A clock component that handle few simple clock operations.",
     "require": {
         "php": "^8.3",
         "psr/clock": "^1.0.0"
